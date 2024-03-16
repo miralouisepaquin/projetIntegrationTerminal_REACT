@@ -1,0 +1,11 @@
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 45%;
+    height: 180px;
+    border-radius: 80px;
+    background-image: url("../../../public/pictures/studies.jpg");
+    color: red;
+}
