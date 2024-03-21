@@ -1,0 +1,121 @@
+[{
+	"id":"RG1",
+	"action":"Consulter le document 'La gestion du temps' (disponible au service de consultation B-157)."
+},
+{
+	"id":"RG2",
+	"action":"Consulter le livre 'Oubliez la gestion du temps, gérez vos priorités / François Lavallée' disponible à la bibliothèque."
+},
+{
+	"id":"RG3",
+	"action":"Consulter le livre 'Petit guide de survie des étudiants / Marie Lambert-Chan' disponible à la bibliothèque."
+},
+{
+	"id":"RG4",
+	"action":"Demander à mon API de consulter le guide 'La concentration et le gestion du temps'."
+},
+{
+	"id":"RM1",
+	"action":"Consulter le livre 'Décrocher son diplôme (et l'emploi de ses rêves!): comment maîtriser les compétences essentielles menant au succès à l'école' disponible à la bibliothèque."
+},
+{
+	"id":"RM2",
+	"action":"Consulter le livre 'La méthode infaillible pour réussir vos études' disponible à la bibliothèque."
+},
+{
+	"id":"RM3",
+	"action":"Consulter le livre 'L'essentiel pour réussir ses études' disponible à la bibliothèque."
+},
+{
+	"id":"RM4",
+	"action":"Demander à mon API de consulter: L'écoute en classe et la prise de notes, La lecture active et la mémorisation, la préparation aux examens et les examens."
+},
+{
+	"id":"RS1",
+	"action":"Consulter le livre 'Mindfulness: apprivoiser le stress par la pleine conscience' disponible à la bibliothèque."
+},
+{
+	"id":"RS2",
+	"action":"Communiquer en public sans anxiété' disponible à la bibliothèque."
+},
+{
+	"id":"RS3",
+	"action":"Les 5 clés pour se libérer du stress' disponible à la bibliothèque."
+},
+{
+	"id":"RS4",
+	"action":"Consulter Marie-Josée Henry ou Suzanne Marquis au centre de santé G-206."
+},
+{
+	"id":"RS5",
+	"action":"Demander à mon API de consulter le guide 'Les exposés oraux'."
+},
+{
+	"id":"RI1",
+	"action":"Consulter le livre 'Savoir s'affirmer en toutes circonstances' disponible à la bibliothèque."
+},
+{
+	"id":"RI2",
+	"action":"Consulter le livre 'Affirmez-vous!: pour mieux vivre avec les autres' disponible à la bibliothèque."
+},
+{
+	"id":"RI3",
+	"action":"Consulter le livre 'S'affirmer pour changer: cheminer vers l'assertivité et l'affirmation de soi' disponible à la bibliothèque."
+},
+{
+	"id":"RI4",
+	"action":"Consulter Marie-Josée Henry ou Suzanne Marquis au centre de santé G-206."
+},
+{
+	"id":"RT1",
+	"action":"Consulter Marie-Josée Henry ou Suzanne Marquis au centre de santé G-206,si j'ai de la difficulté dans mon isolement."
+},
+{
+	"id":"RT2",
+	"action":"Comsulter le service de consultation au B-157: si j'ai de la difficulté à m'adapter aux études collégiales."
+},
+{
+	"id":"RT3",
+	"action":"Consulter le centre sportif: information et inscription à de activités parascolaires."
+},
+{
+	"id":"RT4",
+	"action":"Faire appel à François Provost (G-004) responsable de la vie étudiante pour connaître les activités régulières."
+},
+{
+	"id":"RP1",
+	"action":"Consulter le service consultation (B-157): personne ressources et exercices."
+},
+{
+	"id":"RP2",
+	"action":"Demander à monAPI de consulter le guide 'La motivation'."
+},
+{
+	"id":"RE1",
+	"action":"Prendre rendez-vous avec mon API"
+},
+{
+	"id":"RE2",
+	"action":"DEmander à mon API de consulter le guide 'Surmonter la procrastination scolaire'."
+},
+{
+	"id":"RA1",
+	"action":"Consulter mes enseignants."
+},
+{
+	"id":"RA2",
+	"action":"Consulter mon aide pédagogique."
+},
+{
+	"id":"RA3",
+	"action":"Assister à des rencontres avec les centres d'aide."
+},
+{
+	"id":"RF1",
+	"action":"Participer à des activités sportives, culturelles, etc."
+},
+{
+	"id":"RF2",
+	"action":"Consulter Marie-Josée Henry ou Suzanne Marquis au centre de santé G-206."
+}
+]

@@ -1,0 +1,99 @@
+[{
+    "titre": "Mon programme d'études est-il un choix significatif pour moi?",
+    "directive": {
+        "titre": "Objectif de la rencontre",
+        "objectifs": [
+            "Faire le point sur ma situation personnelle depuis le début de mes études collégiales.",
+            "Identifier les facteurs pouvant mener à l'indécision vocationnelle par rapport à mon choix de programme.",
+            "Avoir des pistes pour diminuer l'inconfort, l'incertitude et apporter des changements."
+        ]
+    },
+    "piedPage": "Copyright 2024 - Indécision Vocationnelle",
+    "questions": [{
+            "id": "ET",
+            "titre": "Cégep (T)",
+            "sousTitre": "Transition secondaire-collégial",
+            "questions": [{
+                    "id": "ET1",
+                    "enonce": "Il y a de nombreuses différences entre le secondaire et le collégial. Comment est-ce que je vis ces changements?"
+                },
+                {
+                    "id": "ET2",
+                    "enonce": "Est-ce que je vis également des changements dans ma vie personnelle et sociale?"
+                }
+            ]
+        },
+        {
+            "id": "ES",
+            "titre": "Soutien (S)",
+            "sousTitre": "Famille, amis et enseignants",
+            "questions": [{
+                    "id": "ES1",
+                    "enonce": "Mon réseau:"
+                },
+                {
+                    "id": "ES2",
+                    "enonce": "Ce qu'ils disent de mon projet:"
+                }
+            ]
+        },
+        {
+            "id": "EI",
+            "titre": "Identité professionnelle (I)",
+            "sousTitre": "Mon choix de programme est-il directement en lien avec mes intérêts, mes valeurs et aptitudes?",
+            "questions": [{
+                    "id": "EI1",
+                    "enonce": "J'aime:"
+                },
+                {
+                    "id": "EI2",
+                    "enonce": "Je suis capable de:"
+                },
+                {
+                    "id": "EI3",
+                    "enonce": "Ce qui est important pour moi, c'est:"
+                },
+                {
+                    "id": "EI4",
+                    "enonce": "Je suis motivé par:"
+                }
+            ]
+        },
+        {
+            "id": "EM",
+            "titre": "Métier (M)",
+            "sousTitre": "Connaissance de la profession et du marché du travail",
+            "questions": [{
+                "id": "EM1",
+                "enonce": "Depuis le début de la session, mes enseignants m'ont présenté le contenu des cours du programme. J'ai visité des services de garde et j'ai fait des observations au centre de la petite enfance 'Le Jardin'. De plus, j'ai entendu des témoignages (parents et enfants) et effectué des travaux pratiques dans le cours d'introduction à la profession. Ce que je pense du métier est positif ou négatif? Pourquoi?"
+            }]
+        },
+        {
+            "id": "EC",
+            "titre": "Choix de carrière (C)",
+            "sousTitre": "Clarté et maintien du choix de carrière",
+            "questions": [{
+                "id": "EC1",
+                "enonce": "Suis-je en mesure de me projeter sur le marché du travail dans ce domaine? Est-ce que je vois la pertinence des cours pour mon projet de carrière? Ce qui me plaît dans cette profession:"
+            }]
+        },
+        {
+            "id": "EA",
+            "titre": "Moi (A)",
+            "sousTitre": "Perception de soi et des attitudes",
+            "questions": [{
+                "id": "EA1",
+                "enonce": "Habituellement, est-ce que j'ai tendance à me faire confiance? Est-ce que j'ai de la facilité à m'affirmer? Est-ce que je me considère comme quelqu'un d'important? Le premier facteur qui influence la réussite est ma propre perception de moi-même face à la réussite."
+            }]
+        },
+        {
+            "id": "EX",
+            "titre": "Vie personnelle (X)",
+            "sousTitre": "État de ma situation personnelle",
+            "questions": [{
+                "id": "EX1",
+                "enonce": "Est-ce que je vis présentement des événements significatifs qui peuvent affecter mon cheminement scolaire et, par le fait même, remettre en question mon choix de programme? Est-ce que je sens que je perds le contrôle dans une de mes sphères de vie?"
+            }]
+        }
+    ]
+}]

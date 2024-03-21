@@ -5,10 +5,11 @@ import formReussir from '../json/formReussir.json';
 import actions from '../json/actions.json';
 import ressources from "../json/ressources.json";
 import { motion } from "framer-motion";
+import styles from "./index.module.css";
 
 let formReussirElements = formReussir.map(item => (
     <div className="d-flex flex-column w-75">
-        <motion.h3 className="text-center text-danger mx-5"
+        <motion.h3 className={styles.titleReussir}
         animate={{ x: [0, 150, 0], opacity: 1, scale: 1 }}
         transition={{
           duration: 5,
@@ -18,7 +19,7 @@ let formReussirElements = formReussir.map(item => (
         initial={{ opacity: 0, scale: 0.5 }}
         whileHover={{ scale: 1.2 }}>{item.titre}</motion.h3>
         <p className="text-center mx-5">{item.directive}</p>
-        <div className="align-self-center bg-secondary bg-opacity-75 rounded-pill w-75">
+        <div className={styles.instruction}>
             <p className="text-center text-white mt-2">{item.instruction[0]}</p>
             <p className="text-center text-white">{item.instruction[1]}</p>
         </div>
@@ -69,7 +70,7 @@ export default function FormReussir() {
             <div>
                 {questionsArray.map(question => (
                     <div key={question.facteur} className="d-flex flex-wrap justify-content-center">
-                        <div className="d-flex flex-wrap justify-content-center mt-2 pt-2 bg-primary rounded-top-3 bg-opacity-50 w-100">
+                        <div className={styles.entete}>
                             <h5 className="text-center mx-2">{question.facteur}</h5>
                             <h6 className="align-self-center text-center mx-2">{question.titre}</h6>
                         </div>
@@ -101,7 +102,7 @@ export default function FormReussir() {
                         {reussirElements}
                     </div>
                     <div className="d-flex justify-content-center">
-                        <button type="Submit" className="btn btn-dark w-50">Envoyer</button>                      
+                        <button type="Submit" className={styles.boutonReussir}>Envoyer</button>                      
                     </div>                 
                 </form>
             </div>

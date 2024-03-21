@@ -1,0 +1,151 @@
+[{
+	"numQuestion":"I1",
+	"titre": "Facteur I",
+	"description":"J'ai des aptitudes variées qui me font encore hésiter dans le choix de mon programme."
+},
+{
+	"numQuestion":"I2",
+	"titre": "Facteur I",
+	"description":"Depuis que j'ai commencé mon programme d'études, mes intérêts à la carrière ont changé."
+},
+{
+	"numQuestion":"I3",
+	"titre": "Facteur I",
+	"description":"Mon choix de programme ne repose pas sur des expériences de travail ou des expériences personnelles que j'ai vécues."
+},
+{
+	"numQuestion":"I4",
+	"titre": "Facteur I",
+	"description":"Je neme connais pas suffisamment pour être certain que j'ai fait le bon choix de programme."
+},
+{
+	"numQuestion":"S1",
+	"titre": "Facteur S",
+	"description":"Certaines personnes qui me sont chères sont d'avis que le choix de programme que j'ai fait ne me convient pas."
+},
+{
+	"numQuestion":"S2",
+	"titre": "Facteur S",
+	"description":"Je me sens mal à l'aise de rencontrer mes professeurs afin de leur parler de mon questionnement par rapport à mon choix de carrière."
+},
+{
+	"numQuestion":"S3",
+	"titre": "Facteur S",
+	"description":"Je ne peux pas compter sur le soutien de mes proches pour m'encourager à réussir mes études."
+},
+{
+	"numQuestion":"S4",
+	"titre": "Facteur S",
+	"description":"Les personnes qui me sont importantes ne portent pas intérêt à ce que je fais dans mes cours."
+},
+{
+	"numQuestion":"M1",
+	"titre": "Facteur M",
+	"description":"Je suis inquiète de ne pas me trouver de l'emploi dans la carrière que j'ai choisie."
+},
+{
+	"numQuestion":"M2",
+	"titre": "Facteur M",
+	"description":"Depuis le début de la session, je n'aie pas eu suffisamment d'informations sur ce que font les travailleurs dans mon programme."
+},
+{
+	"numQuestion":"M3",
+	"titre": "Facteur M",
+	"description":"Je pense qu'il est irréaliste pour moi de développer les attitudes exigées par la profession, d'ici la fin de mon programme."
+},
+{
+	"numQuestion":"M4",
+	"titre": "Facteur M",
+	"description":"Les conférences, les visites, les stages d'observations et/ou la rencontre avec les travailleurs de mon domaine m'ont amené à remettre en question mon choix de programme."
+},
+{
+	"numQuestion":"C1",
+	"titre": "Facteur C",
+	"description":"Depuis que j'ai commencé mon programme d'études, je ne suis plus certain(e) d'être dans le bon domaine."
+},
+{
+	"numQuestion":"C2",
+	"titre": "Facteur C",
+	"description":"Le choix de carrière que j'ai fait ne correspond pas entièrement à mes attentes."
+},
+{
+	"numQuestion":"C3",
+	"titre": "Facteur C",
+	"description":"Malgré le fait que je sois inscrit dans un programme d'études, plusierus autres programmes m'intéressent toujours."
+},
+{
+	"numQuestion":"C4",
+	"titre": "Facteur C",
+	"description":"Je ne vois pas comment le programme dans lequel je suis inscrit(e) va me préparer à la carrière que je souhaite faire."
+},
+{
+	"numQuestion":"T1",
+	"titre": "Facteur T",
+	"description":"J'ai de la difficulté à m'intégrer aux autres élèves du programme."
+},
+{
+	"numQuestion":"T2",
+	"titre": "Facteur T",
+	"description":"La vie en appartement ou à la résidence ou à la maison familial est désagréable pour moi."
+},
+{
+	"numQuestion":"T3",
+	"titre": "Facteur T",
+	"description":"Je ne trouve pas au cégep des activités pour me permettre de meréaliser au niveau personnel."
+},
+{
+	"numQuestion":"T4",
+	"titre": "Facteur T",
+	"description":"La transition entre le secondaire et le collégial est ardue pour moi."
+},
+{
+	"numQuestion":"T5",
+	"titre": "Facteur T",
+	"description":"J'ai de la difficulté à me prendre en charge et à suivre le rythme des études collégiales."
+},
+{
+	"numQuestion":"A1",
+	"titre": "Facteur A",
+	"description":"De façon général dans ma vie, j'ai de la difficulté à prendre une décision."
+},
+{
+	"numQuestion":"A2",
+	"titre": "Facteur A",
+	"description":"J'ai besoin d'être rassuré(e) par un conseiller d'orientation que mon choix de programme est le bon pour moi."
+},
+{
+	"numQuestion":"A3",
+	"titre": "Facteur A",
+	"description":"En général, j'éprouve de la difficulté à savoir ce qui me convient."
+},
+{
+	"numQuestion":"A4",
+	"titre": "Facteur A",
+	"description":"La plupart du temps, je garde pour moi ce que je ressens."
+},
+{
+	"numQuestion":"X1",
+	"titre": "Facteur X",
+	"description":"J'ai une difficulté personnelle qui nuit à mes études."
+},
+{
+	"numQuestion":"X2",
+	"titre": "Facteur X",
+	"description":"J'ai une difficulté financière qui m'empêche de me concentrer dans mes études."
+},
+{
+	"numQuestion":"X3",
+	"titre": "Facteur X",
+	"description":"Je fais une consommation abusive d'alcool ou de drogue qui nuit à mes études."
+},
+{
+	"numQuestion":"X4",
+	"titre": "Facteur X",
+	"description":"J'ai un problème de santé qui nuit à mes études."
+},
+{
+	"numQuestion":"X5",
+	"titre": "Facteur X",
+	"description":"Je me reconnais comme une personne qui pourrait changer de programme."
+}
+]

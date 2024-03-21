@@ -4,6 +4,7 @@ import Navbar from "../../Commons/Navbar/pageQuestionnaire";
 import Footer from "../../Commons/Footer";
 import formProgramme from '../../json/formProgramme.json';
 import { motion } from "framer-motion";
+import styles from "../index.module.css";
 
 let formProgrammeElements = formProgramme.map(item => (
     <div className="d-flex flex-column">
@@ -40,7 +41,7 @@ export default function accueilProgramme(){
                 <div className="align-self-center w-75">
                     {formProgrammeElements}
                     <form action="/formProgramme" method="get" className="d-flex flex-row-reverse">
-                        <button type="Submit" className="btn btn-dark">Commencer</button>
+                        <button type="Submit" className={styles.boutonProgramme}>Commencer</button>
                     </form>
                 </div>
             </div>

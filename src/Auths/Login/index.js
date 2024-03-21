@@ -1,7 +1,7 @@
 import React from "react"
 import Navbar from "../../Commons/Navbar/pageAcceuil.js"
 import Footer from "../../Commons/Footer"
-import "./style.css"
+import styles from "../index.module.css"
 
 export default function Login(){
     return (
@@ -13,7 +13,7 @@ export default function Login(){
                 <div className="d-flex flex-coloumn justify-content-center mt-4">
                     <div>
                         <img src="/pictures/loginLogo.jpg" className="d-flex justify-content-center mx-auto rounded-circle" alt="students1"/>
-                        <h1 className="d-flex justify-content-center mx-auto">Connexion</h1>
+                        <h1 className={styles.titre}>Connexion</h1>
                         <form action="/accueilProgramme" method="get">
                             <div class="mb-3">
                                 <label for="exampleInputEmail1" class="form-label">Courriel</label>
@@ -26,7 +26,9 @@ export default function Login(){
                             <div className="d-flex flex-row justify-content-center">
                                 <p>Pas encore inscrit?</p><a className="ms-2" href="/signUp">Inscrivez-vous ici</a>
                             </div>
-                            <button type="submit" class="btn btn-primary d-flex justify-content-center mx-auto">Connexion</button>
+                            <div className="d-flex justify-content-center">
+                                <button type="submit" className={styles.boutonCegep}>Connexion</button>
+                            </div>
                         </form>
                     </div>
                 </div>

@@ -1,0 +1,121 @@
+[{
+	"id":"AG1",
+	"action":"Établir mes priorités:étude, travail, loisir."
+},
+{
+	"id":"AG2",
+	"action":"Diminuer le temps consacré à un travail rémunéré."
+},
+{
+	"id":"AG3",
+	"action":"Me faire un horaire précis d'étude et le respecter."
+},
+{
+	"id":"AG4",
+	"action":"Utiliser des outils de planification: agenda, grille horaire, tableau de session, etc."
+},
+{
+	"id":"AM1",
+	"action":"M'organiser un lieu propice à l'étude à la maison."
+},
+{
+	"id":"AM2",
+	"action":"Préparer mes cartables et mes cahiers de note pour chaque cours et les garder en ordre."
+},
+{
+	"id":"AM3",
+	"action":"Réviser et compléter mes notes de cours après chaque cours ou à chaque semaine."
+},
+{
+	"id":"AM4",
+	"action":"Varier mes tâches d'études (lecture, recherche, rédaction, travail d'équipe, etc)."
+},
+{
+	"id":"AM5",
+	"action":"Commencer tôt la réalisation de travaux: me faire un échéancier par étapes."
+},
+{
+	"id":"AM6",
+	"action":"Enclencher rapidement ma préparation aux examens et répartir la matière en blocs d'étude."
+},
+{
+	"id":"AS1",
+	"action":"Identifier les événements reliés aux études ou ma vie personnelle qui sont une source de stress et de tension pour moi."
+},
+{
+	"id":"AS2",
+	"action":"Identifier des moyens simples et concrets que je pourrais ajouter à mes habitudes de vie: sommeil, loisirs, repos, échanges avec amis, etc."
+},
+{
+	"id":"AI1",
+	"action":"Préciser mes difficultés à m'affirmer (ex: dans quel contexte, avec quel type de personne, etc)."
+},
+{
+	"id":"AI2",
+	"action":"Observer mes comportements et mes réactions dans mes relations interpersonnelles."
+},
+{
+	"id":"AI3",
+	"action":"Clarifier monidentité avec l'aide de rencontres individuelles avec une conseillère d'orientation."
+},
+{
+	"id":"AI4",
+	"action":"Discuter avec mes professeurs afin de recevoir des feedbacks de la perception qu'ils ont de moi."
+},
+{
+	"id":"AT1",
+	"action":"Lire La P'tite Antenna (journal du collège) pour connaître ce qui se passe au collège: date importantes, conférences, activités, etc)."
+},
+{
+	"id":"AT2",
+	"action":"M'inscrire à une activité parascolaire pour élargir mon réseau social."
+},
+{
+	"id":"AT3",
+	"action":"Faire connaissance avec au moins une personne dans chaque cours et noter comment les rejoindres."
+},
+{
+	"id":"AT4",
+	"action":"Ne pas hésiter à rencontrer mes professeurs pour m'aider si je trouve le rythme des cours trop rapide et/ou les exigences difficiles à respecter."
+},
+{
+	"id":"AP1",
+	"action":"Faire la liste de mes priorités et observer dans quel ordre de priorité."
+},
+{
+	"id":"AE1",
+	"action":"Où est-ce que je mets mes énergies: dans ma vie sociale, un travail rémunéré ou mes études?"
+},
+{
+	"id":"AE2",
+	"action":"Reconnaître que rien n'arrive par 'magie', il faut y mettre du temps et de l'effort."
+},
+{
+	"id":"AA1",
+	"action":"Je travaille ma capacité de concentration."
+},
+{
+	"id":"AA2",
+	"action":"Je vais chercher de l'aide au cégep."
+},
+{
+	"id":"AA3",
+	"action":"Étudier avec un groupe de pairs."
+},
+{
+	"id":"AA4",
+	"action":"Ne pas hésiter à poser des questions aux professeurs lors d'incompréhension."
+},
+{
+	"id":"AF1",
+	"action":"Consulter le journal 'La P'tite Antenne' et profiter des multiples occasions offertes pour établir de nouveaux contacts."
+},
+{
+	"id":"AF2",
+	"action":"Savoir mettre mes limites face à des influences négatives de gens qui m'entourent."
+},
+{
+	"id":"AF3",
+	"action":"J'ai un problème de santé qui nuit à mes études."
+}
+]

@@ -3,6 +3,7 @@ import Navbar from "../../Commons/Navbar/pageQuestionnaire";
 import Footer from "../../Commons/Footer";
 import formEtudes from '../../json/formEtudes.json';
 import { motion } from "framer-motion";
+import styles from "../index.module.css";
 
 let formEtudesElements = formEtudes.map(item => (
     <div className="d-flex flex-column">
@@ -36,7 +37,7 @@ export default function FormEtudes(){
                 <div  className="align-self-center w-75 mt-5">
                     {formEtudesElements}
                     <form action="/formEtudes" method="get" className="d-flex flex-row-reverse">
-                        <button type="Submit" className="btn btn-dark">Commencer</button>
+                        <button type="Submit" className={styles.boutonEtudes}>Commencer</button>
                     </form>
                 </div>
                 <motion.div whileHover={{ scale: 1.2 }} whileTap={{ scale: 2 }} className="px-2 w-25">
