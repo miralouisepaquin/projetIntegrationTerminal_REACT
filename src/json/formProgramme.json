@@ -1,0 +1,38 @@
+[{
+    "titre": "Mon choix de programme est-il un choix significatif pour moi?",
+    "directive": {
+        "titre": "Directives",
+        "objectifs": "Ce questionnaire a pour objectif de prendre le temps de t'arrêter et de réfléchir sur le choix de programme que tu as fait. Il va t'aider à confirmer qu ton choix est un bon choix pour toi, ou à l'inverse, il vat'aider à identifer l'indécision que tu peux ressentir face à celui-ci. Les énoncées de ce questionnaire réfèrent à tes perceptions, à tes réflexions, à tes attitudes ou à tes réactions émotives en relation avec ton choix de programme et à tes acitivtés sociales. Il n'y a pas de bonnes ou de mauvaises réponses. Une réponse est vraie si elle correspond exactement à ton vécu.",
+        "but": "Ce questionnaire a été réalisé par le Service de consultation du Cégep de Rivière-du-Loup afin de dépister les élèves de carrière indécis et de les supporter dans leur parcours au collégial."
+    },
+    "piedPage": "Copyright 2024 - Indécision Vocationnelle",
+    "questions": [{
+            "facteur": "Facteur I",
+            "questions": ["I1", "I2", "I3", "I4"]
+        },
+        {
+            "facteur": "Facteur S",
+            "questions": ["S1", "S2", "S3", "S4"]
+        },
+        {
+            "facteur": "Facteur M",
+            "questions": ["M1", "M2", "M3", "M4"]
+        },
+        {
+            "facteur": "Facteur C",
+            "questions": ["C1", "C2", "C3", "C4"]
+        },
+        {
+            "facteur": "Facteur T",
+            "questions": ["T1", "T2", "T3", "T4", "T5"]
+        },
+        {
+            "facteur": "Facteur A",
+            "questions": ["A1", "A2", "A3", "A4"]
+        },
+        {
+            "facteur": "Facteur X",
+            "questions": ["X1", "X2", "X3", "X4", "X5"]
+        }
+    ]
+}]

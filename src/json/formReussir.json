@@ -1,0 +1,61 @@
+[{
+    "titre": "Des moyens concrets pour mieux réussir",
+    "directive": "Pour chaque facteur qui explique votre situation actuelle cochez:",
+    "instruction": [
+		"1: Les actions personnelles que vous pourriez adopter cette session.", 
+		"2: Les ressources du collège qu ipourrait soutenir votre démarche vers la réussite."],
+    "piedPage": "Copyright 2024 - Indécision Vocationnelle",
+    "questions": [{
+            "facteur": "Facteur G",
+	    "titre":"Gestion du temps: savoir organiser mon temps de manière efficace",
+            "actions": ["AG1", "AG2", "AG3", "AG4"],
+	    "ressources": ["RG1", "RG2", "RG3", "RG4"]
+        },
+        {
+            "facteur": "Facteur M",
+	    "titre":"Organisation et méthode de travail: être méthodique et structuré dans ce que j'entreprends",
+            "actions": ["AM1", "AM2", "AM3", "AM4","AM5","AM6"],
+	    "ressources": ["RM1", "RM2", "RM3", "RM4"]
+        },
+        {
+            "facteur": "Facteur S",
+	    "titre":"Stress/anxiété: maximiser mon bien-être en diminuant la pression!",
+            "actions": ["AS1", "AS2"],
+	    "ressources": ["RS1", "RS2", "RS3", "RS4"]
+
+        },
+        {
+            "facteur": "Facteur I",
+	    "titre":"",
+            "actions": ["AI1", "AI2", "AI3", "AI4"],
+	    "ressources": ["RI1", "RI2", "RI3", "RI4"]
+        },
+        {
+            "facteur": "Facteur T",
+	    "titre":"Adaptation aux études: m'adapter au rythme du collègial et en tirer le maximum",
+            "actions": ["AT1", "AT2", "AT3", "AT4"],
+	    "ressources": ["RT1", "RT2", "RT3", "RT4"]
+
+        },
+        {
+            "facteur": "Facteur P",
+	    "titre":"Perception des études: l'importance des études dans ma vie?",
+            "actions": ["AP1"],
+	    "ressources": ["RP1", "RP2"]
+        },
+        {
+            "facteur": "Facteur A",
+	    "titre":"Difficulté d'apprentissage: reconnaître mes limites et y faire face",
+            "actions": ["AA1", "AA2", "AA3", "AA4"],
+	    "ressources": ["RA1", "RA2", "RA3"]
+
+        },
+	{
+            "facteur": "Facteur F",
+	    "titre":"Réseau social et sentiment d'appartenance: m'établir un réseau stimulant et aidant",
+            "actions": ["AF1", "AF2", "AF3"],
+	    "ressources": ["RF1", "RF2"]
+
+        }
+    ]
+}]
