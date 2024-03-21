@@ -1,0 +1,15 @@
+.backGroundCegep {
+    background-color:  #6D2968 ;
+}
+
+.backGroundCaroussel {
+    background-color:  #405785 ;
+}
+
+.boutonCegep {
+    background: linear-gradient(265.08deg, #4DAF99 0%, #418591 100.78%);
+    border: none;
+    border-radius: 40px;
+    padding: 14px 26px;
+    width: auto;
+}
